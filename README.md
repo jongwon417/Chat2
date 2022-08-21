@@ -4,7 +4,7 @@ add PW, ID
 
 ## Client
 
-Usage : %s <IP> <port> <name> <password>
+Usage : <IP> <port> <name> <password>
 
 ## ROS_Client
 
@@ -14,4 +14,4 @@ Build to ROS catkin_build
 
 ## Server
 
-Usage : %s <port>
+Usage : Server <port>
