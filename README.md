@@ -4,7 +4,9 @@ add PW, ID
 
 ## Client
 
-Usage : <IP> <port> <name> <password>
+Usage : Client <IP> <port> <name> <password>
+
+Copy to kcci
 
 ## ROS_Client
 
