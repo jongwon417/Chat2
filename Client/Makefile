@@ -1,6 +1,6 @@
 CC := gcc
 
-TARGET = Server
+TARGET = Client
 
 OBJECT = $(TARGET).o 
 
