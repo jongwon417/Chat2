@@ -1,5 +1,17 @@
-# Chat2
+# Chat_ROS
 
-ID PW
+add PW, ID
 
-ROS
+## Client
+
+Usage : %s <IP> <port> <name> <password>
+
+## ROS_Client
+
+For jetson Nano, just one client to one server
+
+Build to ROS catkin_build
+
+## Server
+
+Usage : %s <port>
